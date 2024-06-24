@@ -1,0 +1,13 @@
+{
+    "matrix": {
+      "rows": 1,
+      "cols": 1
+    },
+    "layouts": {
+      "keymap": [
+        [
+          "0,0"
+        ]
+      ]
+    }
+  }
